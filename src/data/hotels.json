@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "The Grand Palace",
+    "location": "New Delhi, India",
+    "price": 120,
+    "image": "https://picsum.photos/300/200?random=1",
+    "description": "Luxury stay with spa, pool, and fine dining."
+  },
+  {
+    "id": 2,
+    "name": "Ocean View Resort",
+    "location": "Goa, India",
+    "price": 80,
+    "image": "https://picsum.photos/300/200?random=2",
+    "description": "Beachside resort with water sports and seafood."
+  },
+  {
+    "id": 3,
+    "name": "City Lights Inn",
+    "location": "Mumbai, India",
+    "price": 75,
+    "image": "https://picsum.photos/300/200?random=3",
+    "description": "Modern stay in the heart of the city with rooftop dining."
+  },
+  {
+    "id": 4,
+    "name": "Royal Heritage Hotel",
+    "location": "Jaipur, India",
+    "price": 110,
+    "image": "https://picsum.photos/300/200?random=4",
+    "description": "Stay in a royal palace with cultural performances."
+  },
+  {
+    "id": 5,
+    "name": "Ocean Breeze Villa",
+    "location": "Goa, India",
+    "price": 95,
+    "image": "https://picsum.photos/300/200?random=5",
+    "description": "Private villas with beach access and seafood dining."
+  },
+  {
+    "id": 6,
+    "name": "Skyline Suites",
+    "location": "Bengaluru, India",
+    "price": 100,
+    "image": "https://picsum.photos/300/200?random=6",
+    "description": "Business-friendly suites with skyline views."
+  },
+  {
+    "id": 7,
+    "name": "Desert Mirage Resort",
+    "location": "Jaisalmer, India",
+    "price": 90,
+    "image": "https://picsum.photos/300/200?random=7",
+    "description": "Camel rides and desert safari with cultural nights."
+  },
+  {
+    "id": 8,
+    "name": "Lakeview Paradise",
+    "location": "Udaipur, India",
+    "price": 130,
+    "image": "https://picsum.photos/300/200?random=8",
+    "description": "Romantic stay beside the lake with boat rides."
+  },
+  {
+    "id": 9,
+    "name": "Forest Escape Lodge",
+    "location": "Kerala, India",
+    "price": 85,
+    "image": "https://picsum.photos/300/200?random=9",
+    "description": "Eco-friendly lodge surrounded by greenery and wildlife."
+  },
+  {
+    "id": 10,
+    "name": "Hilltop Haven",
+    "location": "Ooty, India",
+    "price": 70,
+    "image": "https://picsum.photos/300/200?random=10",
+    "description": "Cozy hilltop stay with tea plantations nearby."
+  },
+  {
+    "id": 11,
+    "name": "Coral Reef Resort",
+    "location": "Goa, India",
+    "price": 150,
+    "image": "https://picsum.photos/300/200?random=11",
+    "description": "Beachfront resort with snorkeling and scuba diving."
+  },
+  {
+    "id": 12,
+    "name": "Green Valley Inn",
+    "location": "Munnar, India",
+    "price": 65,
+    "image": "https://picsum.photos/300/200?random=12",
+    "description": "Serene valley view stay surrounded by tea gardens."
+  },
+  {
+    "id": 13,
+    "name": "Pearl Residency",
+    "location": "Chennai, India",
+    "price": 90,
+    "image": "https://picsum.photos/300/200?random=13",
+    "description": "Modern hotel near Marina Beach with rooftop pool."
+  },
+  {
+    "id": 14,
+    "name": "Golden Sands Resort",
+    "location": "Puri, India",
+    "price": 80,
+    "image": "https://picsum.photos/300/200?random=14",
+    "description": "Beachside stay close to Jagannath Temple."
+  },
+  {
+    "id": 15,
+    "name": "Snow Peak Hotel",
+    "location": "Shimla, India",
+    "price": 105,
+    "image": "https://picsum.photos/300/200?random=15",
+    "description": "Snowy mountain views with cozy fireplace rooms."
+  },
+  {
+    "id": 16,
+    "name": "Business Hub Hotel",
+    "location": "Mumbai, India",
+    "price": 115,
+    "image": "https://picsum.photos/300/200?random=16",
+    "description": "Perfect for business travelers, near major offices."
+  },
+  {
+    "id": 17,
+    "name": "Serenity Resort",
+    "location": "Kerala, India",
+    "price": 98,
+    "image": "https://picsum.photos/300/200?random=17",
+    "description": "Ayurvedic spa treatments and backwater cruises."
+  },
+  {
+    "id": 18,
+    "name": "The Imperial Residency",
+    "location": "New Delhi, India",
+    "price": 125,
+    "image": "https://picsum.photos/300/200?random=18",
+    "description": "Classic luxury hotel with colonial architecture."
+  },
+  {
+    "id": 19,
+    "name": "Goa Sun Hotel",
+    "location": "Goa, India",
+    "price": 85,
+    "image": "https://picsum.photos/300/200?random=19",
+    "description": "Budget-friendly stay close to Baga Beach."
+  },
+  {
+    "id": 20,
+    "name": "Mountain Breeze Retreat",
+    "location": "Manali, India",
+    "price": 102,
+    "image": "https://picsum.photos/300/200?random=20",
+    "description": "Scenic mountain views with adventure sports."
+  }
+]
